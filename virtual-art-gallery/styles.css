@@ -241,11 +241,13 @@ p {
     align-items: center;
     gap: 10px;
 }
-.artworksection .art img{
+
+.artworksection .art img {
     width: 800px;
     border: 2px solid #012B4E;
     border-radius: 20px;
 }
+
 .artworksection .artistinfo {
     display: flex;
     flex-direction: column;
