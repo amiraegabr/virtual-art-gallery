@@ -221,18 +221,18 @@ p {
 }
 
 .artsmall {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .artsmall img {
-    width: 400px;
-    padding: 20px 10px;
+    width: 350px;
+    padding: 10px;
 }
 
 .artworksection {
     padding-top: 5%;
-
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
